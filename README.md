@@ -4,4 +4,8 @@ Bem-vindo ao projeto da disciplina ABEXII!
 Este repositório contém todos os materiais e projetos relacionados ao projeto
 de software da disciplina ABEXII.
 ## Integrantes do Grupo:
-.
+joao
+gabriel
+paulo
+luis
+sidnei
